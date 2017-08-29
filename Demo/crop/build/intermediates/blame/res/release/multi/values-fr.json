@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fr\\values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 72,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 74,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 47,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 47,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 68,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 68,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 68,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 68,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 58,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 58,
+                        "endOffset": 187
+                    }
+                }
+            }
+        ]
+    }
+]

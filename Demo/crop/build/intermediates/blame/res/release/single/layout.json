@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\res\\merged\\release\\layout\\crop__layout_done_cancel.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\src\\main\\res\\layout\\crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\res\\merged\\release\\layout\\crop__activity_crop.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\src\\main\\res\\layout\\crop__activity_crop.xml"
+    }
+]

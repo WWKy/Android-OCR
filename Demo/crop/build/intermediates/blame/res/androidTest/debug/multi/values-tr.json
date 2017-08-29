@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-tr\\values-tr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 70,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\bundles\\debug\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 70,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 44,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\bundles\\debug\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 44,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 64,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\bundles\\debug\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 64,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 63,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\bundles\\debug\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 63,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 55,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\bundles\\debug\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 55,
+                        "endOffset": 396
+                    }
+                }
+            }
+        ]
+    }
+]

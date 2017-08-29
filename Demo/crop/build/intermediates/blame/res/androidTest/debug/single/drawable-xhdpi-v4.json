@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__ic_cancel.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__ic_cancel.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__ic_done.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__ic_done.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__divider.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__divider.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__tile.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\Demo\\crop\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__tile.png"
+    }
+]

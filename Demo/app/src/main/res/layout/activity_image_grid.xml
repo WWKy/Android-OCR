@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.wwk.demo.image_manager.ImageGridActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/image_grid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_camera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:tint="#FFF"
+        android:src="@android:drawable/ic_input_add"
+        app:backgroundTint="@color/tianyiBlue"
+        />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_back2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="@dimen/fab_margin"
+        android:tint="#FFF"
+        android:visibility="invisible"
+        app:backgroundTint="@color/tianyiBlue"
+        android:src="@android:drawable/ic_menu_revert" />
+</FrameLayout>

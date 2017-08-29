@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/show_preprocess"
+        android:orderInCategory="100"
+        android:title="显示二值化结果"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/show_preprocess2"
+        android:orderInCategory="100"
+        android:title="显示Tess二值化结果"
+        app:showAsAction="never" />
+</menu>
